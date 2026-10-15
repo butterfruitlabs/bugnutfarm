@@ -33,3 +33,7 @@ The site uses the publicly hosted Google Fonts `Goudy Bookletter 1911` and `DM S
 - `assets/favicon.svg` — favicon
 
 The whole site is static, accessible, mobile responsive, and includes basic search/social metadata. No checkout or public visitor booking is included.
+
+### Current branding
+
+The website header uses the smoothed high-resolution wordmark PNG assets. The favicon uses the borderless dairy-barn illustration (`assets/favicon-32x32.png`, `assets/favicon-16x16.png`, `assets/apple-touch-icon.png`, and `favicon.ico`). The site contains no bottle-label gallery.
